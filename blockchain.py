@@ -1,6 +1,5 @@
 import block
 import time
-import socket
 
 DIFF = 5
 
